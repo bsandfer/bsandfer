@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brendan Sandfer</h1>
-<h3 align="center">An enthusiastic frontend developer from USA 🇺🇸</h3>
+<h3 align="center">An enthusiastic full-stack web developer from USA 🇺🇸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsandfer&label=visitors&color=fadd4b&style=flat" alt="bsandfer" /> </p>
 
