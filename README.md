@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javascript animations with three.js**
 
-- 👨‍💻 See some of my projects at [https://bsandfer.github.io/reactportfolio/](https://bsandfer.github.io/reactportfolio/)
+- 👨‍💻 See some of my projects at [https://bsandfer.github.io/portfolio/](https://bsandfer.github.io/portfolio/)
 
 - 💬 Ask me about **mixed reality**
 
