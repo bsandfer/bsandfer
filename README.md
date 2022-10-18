@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsandfer&label=visitors&color=fadd4b&style=flat" alt="bsandfer" /> </p>
 
-- 🌱 I’m currently learning **three.js | AWS | C# | Python | SwiftUI**
+- 🌱 I’m currently studying **React**
 
 - 👨‍💻 See some of my projects at [https://bsandfer.github.io/portfolio/](https://bsandfer.github.io/portfolio/)
 
